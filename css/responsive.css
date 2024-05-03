@@ -660,7 +660,17 @@
 	}
 	
 	.page-title{
-		padding:100px 0px;
+		padding:70px 0px;
+	}
+	.head-text h1 {
+		font-size: 32px;
+	}
+	.sidebar-page-container {
+		position: relative;
+		padding: 70px 0px 50px;
+	}
+	.pimg .image img {
+		margin-bottom: 20px;
 	}
 	
 	.team-page-section .sec-title-three .text{
@@ -1079,7 +1089,16 @@
 		font-size:var(--font-40);
 		line-height:48px;
 	}
-	
+	.footer-style-two {
+		padding: 47px 0px 0px;
+	}
+	.footer-style-two .footer-widget h5 {
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+	.footer-style-two .contact-widget .contact-list li {
+		padding-left: 60px;
+	}
 	.feature-block .inner-box{
 		min-height:56px;
 	}
